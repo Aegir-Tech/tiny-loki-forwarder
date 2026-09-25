@@ -6,7 +6,7 @@ Grafana Loki.
 ## Install From Source
 
 ```bash
-git clone https://github.com/myers-gh1328/tiny-loki-forwarder.git
+git clone https://github.com/Aegir-Tech/tiny-loki-forwarder.git
 cd tiny-loki-forwarder
 python -m tiny_loki_forwarder.cli --help
 ```
